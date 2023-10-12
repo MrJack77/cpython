@@ -30,7 +30,7 @@ import sys
 import time
 import marshal
 
-__all__ = ["run", "runctx", "Profile"]
+__all__ = ["rn", "runctx", "Profile"
 
 # Sample timer for use with
 #i_count = 0
